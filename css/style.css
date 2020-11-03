@@ -1,0 +1,115 @@
+*{padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif;}
+
+.float-right {
+	height: 85%;
+	width: 500px;
+}
+.navbar-brand {
+	 font-weight: bold;
+	 font-size: 50px;
+	 color: red;
+	 margin-right:25%;
+}
+.header-section{
+	
+	padding-top: 5%;
+	padding-right:2.5%;
+}
+.center-div{
+	
+	padding-top: 5%;
+	padding-left: 10%;
+}
+.nav-link{
+	font-size: 22px;
+	color: blue;
+}
+.navbar-nav{
+	margin-right: 2.5%;
+}
+.col-md-6{
+	margin-top: 10%;
+	font-size: 50%;
+
+}
+.extradiv{
+	padding: 2.5px;
+}
+.extrablocks{
+	width: 15%;
+	height: 15%;
+    margin-top:5%;
+    float: left;
+}
+.border{
+	width: 0.5%;
+	height: 0.5%;
+
+}
+.row{
+	flex-wrap: nowrap;
+    padding-left: 9%;
+
+
+
+
+}
+.font-weight-bold{
+	font-size:350%;
+	padding: 30px;
+}
+
+.rounded-circle{
+ width: 50%;
+ padding: 5px;
+}
+.float-left{
+	width: 500px;
+}
+.bottom{
+	padding-top: 5%;
+	padding-left: 5%;
+	
+}
+.medium-div{
+	padding-left: 53%;
+	padding-right: 12%;   
+	 padding-bottom: inherit;
+	   
+}
+.btn-danger{
+	text-align: center;
+	margin-left: 74px;
+}
+.btn-secondary{
+	
+	text-align: center;
+	background-color: red;
+	   
+}
+.small-div{
+	padding-left: 53%;
+	padding-right: 12%;
+    padding-top: 1%;
+    padding-bottom: 20%;
+}
+.img-thumbnail{
+	width: 15%;
+}
+.imagi{
+	
+	padding-left: 15%; 
+
+}
+.column{
+	padding-left: 5%;  
+  padding: 2px;
+}
+.columnm{
+
+	padding-left: 5%;  
+  padding: 2px;
+}
+.last{
+	padding-left: 5%;
+}
